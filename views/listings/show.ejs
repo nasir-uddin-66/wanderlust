@@ -127,7 +127,11 @@
             method="POST"
             class="mt-2 mb-1"
           >
+          
+          <% if(currUser && currUser._id.equals(review.author._id)) { %>
             <button class="btn btn-sm btn-dark">Delete</button>
+          <% } %>
+
           </form>
         </div>
         <% } %>

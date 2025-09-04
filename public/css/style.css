@@ -85,4 +85,8 @@ body {
     position: relative;
     right: 0.8rem;
   }
+
+  .edit-img {
+    width: 200px;
+  }
 }

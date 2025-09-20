@@ -28,7 +28,7 @@ Wanderlust is a web application for exploring and sharing hotels and travel dest
 - **Frontend:** HTML, CSS, Bootstrap, EJS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, Mongoose  
-- **Authentication:** Passport.js  
+- **Authentication:** Passport 
 - **Architecture:** MVC (Model-View-Controller)  
 - **Deployment:** Render
 
@@ -39,4 +39,5 @@ Wanderlust is a web application for exploring and sharing hotels and travel dest
 1. Clone the repository:
    ```bash
    git clone https://github.com/nasir-uddin-66/wanderlust.git
-   cd wanderlust
+
+---
